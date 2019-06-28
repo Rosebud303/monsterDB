@@ -2,7 +2,7 @@
   "name": "monsterDB",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
     "knex": "^0.16.5",
