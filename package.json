@@ -12,7 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node server.js",
-    "test": "jest"
+    "test": "jest --forceExit"
   },
   "keywords": [],
   "author": "",
