@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "knex": "^0.16.5",
     "nightmare": "^3.0.2",
     "pg": "^7.10.0"
